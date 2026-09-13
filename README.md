@@ -1,9 +1,9 @@
 # 🪷 KalaUdaan AI
 
-### AI-Powered Digital Marketplace & Business Assistant for Traditional Artisans
+## AI-Powered Digital Marketplace & Business Assistant for Traditional Artisans
 
 <p align="center">
-  <strong>Empowering India's artisans with AI, digital commerce, multilingual assistance, and modern technology.</strong>
+  <strong>Empowering India's artisans with Artificial Intelligence, digital commerce, multilingual assistance, and modern technology.</strong>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-## 🌿 About KalaUdaan AI
+# 🌿 About KalaUdaan AI
 
 **KalaUdaan AI** is an AI-powered digital platform designed to help traditional Indian artisans, weavers, potters, craftsmen, and other makers bring their handmade products into the digital marketplace.
 
@@ -29,21 +29,21 @@ Many artisans possess exceptional traditional skills but face challenges such as
 - Limited access to modern business tools
 - Challenges in presenting products professionally
 
-KalaUdaan AI bridges this gap by combining **traditional craftsmanship with Artificial Intelligence and digital commerce**.
+**KalaUdaan AI bridges this gap by combining traditional craftsmanship with Artificial Intelligence and digital commerce.**
 
 > **Tradition creates the craft. Technology creates the opportunity.**
 
 ---
 
-## 🎯 Vision
+# 🎯 Vision
 
 To create an inclusive digital ecosystem where every artisan can showcase, market, and grow their traditional craft using simple and accessible AI-powered tools.
 
 ---
 
-## 🚀 Key Features
+# 🚀 Key Features
 
-### 🧑‍🎨 Artisan Marketplace
+## 🧑‍🎨 Artisan Marketplace
 
 A digital marketplace where artisans can showcase their handmade products and connect with potential buyers.
 
@@ -56,15 +56,15 @@ A digital marketplace where artisans can showcase their handmade products and co
 
 ---
 
-### 🤖 AI Product Studio
+## 🤖 AI Product Studio
 
 Helps artisans create professional product listings with minimal effort.
 
-AI-assisted capabilities include:
+### AI-assisted capabilities
 
 - Product title generation
 - Product description generation
-- Product tags
+- Product tag generation
 - Category suggestions
 - Price suggestions
 - Marketing content generation
@@ -73,9 +73,9 @@ This reduces the amount of typing and digital knowledge required from artisans.
 
 ---
 
-### 📸 AI Photo Studio
+## 📸 AI Photo Studio
 
-A dedicated interface for working with product images.
+A dedicated workspace for working with product images.
 
 Artisans can:
 
@@ -86,37 +86,37 @@ Artisans can:
 
 ---
 
-### 🎙️ AI Voice Assistant
+## 🎙️ AI Voice Assistant
 
 Artisans can interact with the platform using natural language instead of relying completely on typing.
 
 The platform is designed to support:
 
-- English
-- తెలుగు (Telugu)
-- हिंदी (Hindi)
+- 🇬🇧 English
+- 🇮🇳 Telugu
+- 🇮🇳 Hindi
 
 This makes the platform more accessible to users with limited digital literacy.
 
 ---
 
-### 🌐 Multilingual Experience
+## 🌐 Multilingual Experience
 
 KalaUdaan AI supports a multilingual marketplace experience.
 
-Users can switch between:
+### Supported Languages
 
-**English | తెలుగు | हिंदी**
+**English | తెలుగు (Telugu) | हिंदी (Hindi)**
 
 The selected language can be applied across the platform interface.
 
 ---
 
-### 🪪 Artisan Verification
+## 🪪 Artisan Verification
 
-The platform includes an artisan verification workflow designed to help establish seller credibility.
+The platform includes an artisan verification workflow designed to establish seller credibility.
 
-The proposed workflow includes:
+### Verification Workflow
 
 ```text
 Document Upload
@@ -132,7 +132,7 @@ Marketplace Access
 
 ---
 
-### 💡 AI Business Assistance
+## 💡 AI Business Assistance
 
 KalaUdaan AI is designed not only as a marketplace but also as a digital business assistant.
 
@@ -147,7 +147,7 @@ Potential AI assistance includes:
 
 ---
 
-## 🧩 How KalaUdaan AI Works
+# 🧩 How KalaUdaan AI Works
 
 ```text
                     ┌─────────────────────┐
@@ -163,7 +163,7 @@ Potential AI assistance includes:
                                ▼
                     ┌─────────────────────┐
                     │ Upload Product      │
-                    │ Image / Information │
+                    │ Image / Information  │
                     └──────────┬──────────┘
                                │
                                ▼
@@ -196,43 +196,9 @@ Potential AI assistance includes:
 
 ---
 
-# 🖼️ Platform Preview
-
-## 🏠 Home & Landing Experience
-
-<p align="center">
-  <img src="docs/images/home.png" width="900" alt="KalaUdaan AI Home Page">
-</p>
-
----
-
-## 🛍️ Digital Marketplace
-
-<p align="center">
-  <img src="docs/images/marketplace.png" width="900" alt="KalaUdaan AI Marketplace">
-</p>
-
----
-
-## 👩‍🎨 Artisan Dashboard
-
-<p align="center">
-  <img src="docs/images/seller-dashboard.png" width="900" alt="KalaUdaan AI Artisan Dashboard">
-</p>
-
----
-
-## 🤖 AI Product Studio
-
-<p align="center">
-  <img src="docs/images/ai-product-studio.png" width="900" alt="KalaUdaan AI Product Studio">
-</p>
-
----
-
 # 🏺 Supported Artisan Categories
 
-KalaUdaan AI is designed for a wide range of traditional crafts, including:
+KalaUdaan AI is designed for a wide range of traditional crafts.
 
 | Category | Examples |
 |---|---|
@@ -251,7 +217,7 @@ KalaUdaan AI is designed for a wide range of traditional crafts, including:
 
 KalaUdaan AI focuses on applying AI to practical artisan-business problems.
 
-### AI-Powered Content Generation
+## AI-Powered Content Generation
 
 ```text
 Product Image
@@ -267,7 +233,7 @@ Price Suggestions
 Professional Product Listing
 ```
 
-### AI-Assisted Voice Interaction
+## AI-Assisted Voice Interaction
 
 ```text
 Artisan Speech
@@ -339,9 +305,6 @@ KalaUdaan-AI/
 │
 ├── server/
 │
-├── docs/
-│   └── images/
-│
 ├── .gitignore
 ├── README.md
 ├── AUDIT.md
@@ -353,37 +316,37 @@ KalaUdaan-AI/
 
 # ⚙️ Installation & Setup
 
-## 1. Clone the repository
+## 1. Clone the Repository
 
 ```bash
 git clone https://github.com/muskhan934-dot/KalaUdaan-AI.git
 ```
 
-## 2. Navigate into the project
+## 2. Navigate into the Project
 
 ```bash
 cd KalaUdaan-AI
 ```
 
-## 3. Navigate to the frontend
+## 3. Navigate to the Frontend
 
 ```bash
 cd client
 ```
 
-## 4. Install dependencies
+## 4. Install Dependencies
 
 ```bash
 npm install
 ```
 
-## 5. Start the development server
+## 5. Start the Development Server
 
 ```bash
 npm run dev
 ```
 
-The application will be available through the local development URL shown in your terminal.
+The application will be available through the local development URL displayed in the terminal.
 
 ---
 
@@ -397,7 +360,7 @@ Example:
 API_KEY=your_api_key_here
 ```
 
-**Never commit API keys, passwords, tokens, or other secrets to GitHub.**
+> ⚠️ **Never commit API keys, passwords, tokens, or other secrets to GitHub.**
 
 ---
 
@@ -446,21 +409,21 @@ KalaUdaan AI can be extended into a strong solution for challenges involving:
 - Cultural heritage preservation
 - E-commerce accessibility
 - Multilingual AI
-- Women and artisan empowerment
+- Artisan empowerment
 
 ---
 
 # 👥 Target Users
 
-### 👩‍🎨 Artisans
+## 👩‍🎨 Artisans
 
 Traditional makers who want to digitally showcase and sell their products.
 
-### 🛍️ Buyers
+## 🛍️ Buyers
 
 Customers looking for authentic handmade and traditional products.
 
-### 🏛️ Organizations
+## 🏛️ Organizations
 
 Government bodies, NGOs, craft organizations, and institutions supporting artisan communities.
 
@@ -494,7 +457,7 @@ KalaUdaan AI is currently being developed as an AI-powered prototype and can be 
 
 Together:
 
-> ### **KalaUdaan — Giving Traditional Craft a Digital Flight.**
+> ## **KalaUdaan — Giving Traditional Craft a Digital Flight.**
 
 ---
 
@@ -502,26 +465,27 @@ Together:
 
 Contributions, ideas, and improvements are welcome.
 
-1. Fork the repository
-2. Create a feature branch
+### 1. Fork the repository
+
+### 2. Create a feature branch
 
 ```bash
 git checkout -b feature/your-feature
 ```
 
-3. Commit your changes
+### 3. Commit your changes
 
 ```bash
 git commit -m "Add your feature"
 ```
 
-4. Push the branch
+### 4. Push the branch
 
 ```bash
 git push origin feature/your-feature
 ```
 
-5. Open a Pull Request
+### 5. Open a Pull Request
 
 ---
 
@@ -533,11 +497,9 @@ This project is currently intended for educational, research, and hackathon purp
 
 <p align="center">
 
-### 🪷 KalaUdaan AI
+# 🪷 KalaUdaan AI
 
-**Traditional Craft × Artificial Intelligence × Digital Commerce**
-
-<br>
+### Traditional Craft × Artificial Intelligence × Digital Commerce
 
 **Preserving Heritage. Empowering Artisans. Building the Future.**
 
